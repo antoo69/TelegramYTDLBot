@@ -24,7 +24,7 @@ def send_help(message):
         <b>Just send your youtube link and select the video quality.</b> 😉
   <i>
   Developer: @fsyrl
-  Source: <a href="https://github.com/antoo69/TelegramYTDLBot">TelegramYTDLBot</a></i>
+  Source: <a href="https://github.com/antoo69/TelegramYTDLBots">TelegramYTDLBots</a></i>
         """, disable_web_page_preview=True,)
         
     
